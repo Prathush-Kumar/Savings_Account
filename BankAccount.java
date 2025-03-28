@@ -1,5 +1,5 @@
 // This is the abstract BankAccount class that defines the basic structure of a bank account.  
-  
+   
 public abstract class BankAccount {
     // Common attributes for all bank accounts: accountID, interestRate, and balance.   
     protected String accountID = "0000-0000-0000-0000";  
