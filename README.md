@@ -1,4 +1,4 @@
-# SavingsAccount Java Class 
+# SavingsAccount Java Class  
  
 ## Required Skills Inventory
 To complete this task, you should be familiar with the following concepts and skills:
